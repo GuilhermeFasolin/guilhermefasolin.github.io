@@ -18,6 +18,5 @@ main:
   - title: "CV"
     url: /cv/
     
-exclude
-   - title: "Guide"
-   - url: /markdown/
+  - title: "Guide"
+  - url: /markdown/
